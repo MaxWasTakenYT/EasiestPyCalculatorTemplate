@@ -44,7 +44,7 @@ print("Let's go")
 
 # Now we get the numbers we need to calculate from the user (plus the operator)
 # Using the input() function, inside of a float() function, which in itself is inside of a new value (no1), we can get input from the user, just like this:
-# Note: Do not do the error of using both print() and input()
+# Note: Do not make the mistake of using both print() and input()
 # Basically:
 # This is a big nono: valuename = input(print("Question? "))
 # It will return None and just be ugly as f*ck
