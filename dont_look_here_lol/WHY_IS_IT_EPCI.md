@@ -1,5 +1,5 @@
 # I said we _do not_ talk about that here..
-Except when we do, _***now.***_
+Except when we do, _***like now.***_
 ## What does the name stand for?
 The _ACTUAL_ name that had to be used was "EPCI - Easy Python Calculator (not Impressive)"
 Why is it "not impressive"?, because it <s>isn't</s> **wasn't**.
