@@ -1,5 +1,5 @@
 # the Easiest Python Calculator Template (EPCT Version 1)
-# Created by maxwastaken (@MaxWasTakenYT on github)
+# Created by jstmax! (@MaxWasTakenYT on github)
 # License info: The Unlicense, for more informations visit: <https://unlicense.org>
 
 # Here we go!
